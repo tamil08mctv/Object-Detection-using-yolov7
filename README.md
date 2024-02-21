@@ -10,12 +10,11 @@ Helps to identify and track the objects within the frame
 ### Coming Soon
 - Development of streamlit dashboard for Object Tracking
 
-### Ready to Use Google Colab
-- https://colab.research.google.com/drive/1xrB76UQ_LaVaBAxfTi8-a9dIcazmxD5b?usp=sharing
+
 ### Steps to run Code
 - Clone the repository.
 ```
-git clone https://github.com/RizwanMunawar/yolov7-object-tracking.git
+git clone https://github.com/tamil08mctv/Object-Detection-using-yolov7.git
 ```
 - Goto the cloned folder.
 ```
